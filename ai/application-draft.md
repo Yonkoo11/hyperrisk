@@ -35,7 +35,7 @@ Analytics/Data
 Idea (architecture designed, core simulation logic prototyped for a different perp protocol. Hyperliquid-specific data intergration not started yet.)
 
 **Demo link or repo if available:**
-github.com/yonkoo11 (HyperRisk repo will be public once Phase 1 is functional. I can share the Pacifica prototype on request for refrence.)
+github.com/Yonkoo11/hyperrisk
 
 **What's your differentiation vs. existing solutions?**
 There is no self-serve perp parameter simulation tool. Not for Hyperliquid, not for anyone. Gauntlet does custom engagements at $1.6M/year. Chaos Labs builds risk oracles for specific protocols (Jupiter, GMX). ASXN's dashboard shows real-time Hyperliquid data but cant answer "what happens if BTC drops 30% in one hour." Academic work exists (theres a solid agent-based model paper on arXiv from Jan 2025) but nobody turned it into a useable product.
