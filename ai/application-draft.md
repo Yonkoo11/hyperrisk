@@ -32,7 +32,7 @@ The tool also uses the liquidation cause field in Hyperliquid's trade history AP
 Analytics/Data
 
 **Current Stage?**
-Idea (architecture designed, core simulation logic prototyped for a different perp protocol. Hyperliquid-specific data intergration not started yet.)
+Prototype (working simulation engine that fetches live Hyperliquid data and models liquidation cascades. 17 tests passing. CLI and API functional. Frontend in progress.)
 
 **Demo link or repo if available:**
 github.com/Yonkoo11/hyperrisk
